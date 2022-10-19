@@ -1,7 +1,7 @@
 {
-  "name": "جيبثون العرب",
+  "name": "سورس العرب",
   "description": "اللهم صلِ على محمد وآل محمد",
-  "logo": "https://telegra.ph/file/1b4a133e03c9e21d100be.jpg",
+  "logo": "https://telegra.ph/file/ba195b88290345837f13c.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "jepthoniq",
+      "value": "https://github.com/amar2004y/Arab",
       "required": false
     }
   },
